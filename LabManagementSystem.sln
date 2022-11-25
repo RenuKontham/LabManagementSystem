@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LabManagementSystem.Data", "LabManagementSystem.Data\LabManagementSystem.Data.csproj", "{C3E0D911-1DA2-4223-BF01-848484D63F4B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LabManagementSystem.Api", "LabManagementSystem.Api\LabManagementSystem.Api.csproj", "{119A6876-6639-43A0-8A0F-1FFF3074B00D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3E0D911-1DA2-4223-BF01-848484D63F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3E0D911-1DA2-4223-BF01-848484D63F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3E0D911-1DA2-4223-BF01-848484D63F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3E0D911-1DA2-4223-BF01-848484D63F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{119A6876-6639-43A0-8A0F-1FFF3074B00D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{119A6876-6639-43A0-8A0F-1FFF3074B00D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{119A6876-6639-43A0-8A0F-1FFF3074B00D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{119A6876-6639-43A0-8A0F-1FFF3074B00D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F475F7B-15B0-48EC-98A3-4D825F815FD5}
+	EndGlobalSection
+EndGlobal
